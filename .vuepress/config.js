@@ -12,9 +12,6 @@ module.exports = {
           title: "Installation"
         },
         {
-          title: "Use Case"
-        },
-        {
           title: "Components"
         }
       ],
