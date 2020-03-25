@@ -1,5 +1,6 @@
-# OC Careers
 
-<blockquote>
-<p><strong>IMPORTANT:</strong> Get this plugin quick! Once the visual form builder is implemented in a future update the price will double to $100! Lock in your license now for half price!</p>
-</blockquote>
+::: tip
+## :timer_clock: :stopwatch: Hurry Up !!! :tada: :confetti_ball:  Mega Discount for first 15 users only, [Install Now]('https://octobercms.com/plugin/fytinnovations-careers') :tada: :confetti_ball: !
+:::
+
+# OC Careers
