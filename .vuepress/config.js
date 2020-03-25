@@ -1,14 +1,18 @@
 module.exports = {
     base: "/",
-    title: "OC-Careers",
+    title: "Careers",
     description: "Careers Management Plugin for OctoberCMS",
+    head: [
+      ['link', { rel: 'icon', href: 'assets/img/logo.png' }]
+    ],
     themeConfig: {
+      logo: 'assets/img/logo.png',
       sidebar: [
         {
           title: "Installation"
         },
         {
-          title: "UseCase"
+          title: "Use Case"
         },
         {
           title: "Components"
