@@ -9,7 +9,11 @@ module.exports = {
       logo: 'assets/img/logo.png',
       sidebar: [
         {
-          title: "Installation"
+          title: "Getting Started",
+          children: [
+              "/getting-started/installation",
+              "/getting-started/configuration",
+          ]
         },
         {
           title: "Components"
