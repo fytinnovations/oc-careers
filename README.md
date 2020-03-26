@@ -2,6 +2,8 @@
 home: true
 heroText: Careers
 heroImage: /assets/img/7.png
+actionText: Get Started →
+actionLink: /getting-started/installation
 ---
 
 ::: tip OFFER
