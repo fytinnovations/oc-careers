@@ -3,7 +3,7 @@ module.exports = {
     title: "Careers",
     description: "Hire Talents from your OctoberCMS Website",
     head: [
-      ['link', { rel: 'icon', href: 'assets/img/logo.png' }]
+      ['link', { rel: 'icon', href: '/assets/img/logo.png' }]
     ],
     themeConfig: {
       logo: 'assets/img/logo.png',
