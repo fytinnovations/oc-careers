@@ -6,7 +6,7 @@ module.exports = {
       ['link', { rel: 'icon', href: '/assets/img/logo.png' }]
     ],
     themeConfig: {
-      logo: 'assets/img/logo.png',
+      logo: '/assets/img/logo.png',
       sidebar: [
         {
           title: "Getting Started",
