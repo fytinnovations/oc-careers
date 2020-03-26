@@ -1,7 +1,7 @@
 module.exports = {
     base: "/",
     title: "Careers",
-    description: "Careers Management Plugin for OctoberCMS",
+    description: "Hire Talents from your OctoberCMS Website",
     head: [
       ['link', { rel: 'icon', href: 'assets/img/logo.png' }]
     ],
