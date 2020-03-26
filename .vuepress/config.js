@@ -16,7 +16,11 @@ module.exports = {
           ]
         },
         {
-          title: "Components"
+          title: "Components",
+          children: [
+              "/components/joblist",
+              "/components/jobdetails",
+          ]
         }
       ],
       nav: [
