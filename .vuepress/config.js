@@ -26,7 +26,7 @@ module.exports = {
           link: "https://octobercms.com/plugin/fytinnovations-careers"
         }
       ],
-      docsRepo: "fytinnovations/oc-jobmanager",
+      docsRepo: "fytinnovations/oc-careers",
       editLinks: true,
       editLinkText: "Help us improve this page!"
     }
