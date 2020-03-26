@@ -1,7 +1,7 @@
 
 ::: tip OFFER
 
- :timer_clock: Hurry Up !!! :tada: :confetti_ball:  Mega Discount for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-careers). USE COUPON CODE `FIRST5` :tada:
+ :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
 
 :::
 
