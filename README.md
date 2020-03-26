@@ -1,3 +1,8 @@
+---
+home: true
+heroText: Careers
+heroImage: /assets/img/7.png
+---
 
 ::: tip OFFER
 
@@ -5,7 +10,7 @@
 
 :::
 
-# Careers
+# Careers 
 
 ### An OctoberCMS Plugin for Posting Jobs and Recruiting Talents through your website.
 
