@@ -10,10 +10,6 @@ heroImage: /assets/img/7.png
 
 :::
 
-# Careers 
-
-### An OctoberCMS Plugin for Posting Jobs and Recruiting Talents through your website.
-
 ## Features
 
 - If you want to build your own careers page in no time you are the right place.
