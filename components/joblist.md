@@ -43,4 +43,3 @@ jobsPerPage = 2
 </div>
 
 ```
-
