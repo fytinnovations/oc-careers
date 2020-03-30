@@ -11,7 +11,7 @@ features:
   details: Easily add skills required, Department, No of positions open  and job description to a job post.Create categories such as full time, part time, remote etc for your job post.
 - title: Total Control with Handy Notifications
   details: It  provides the admin with an Application dashboard to sort and view all the applications.It also allows you to turn on email notifcations for an application recieved, for as many email addresses you wish.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: Copyright © 2018-present Fytinnovations
 ---
 
 ::: tip OFFER
