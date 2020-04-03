@@ -37,7 +37,7 @@ You can also use the --force (-f) option which will run the command forcefully w
 php artisan careers:seed-sample-data --force
 ```
 
-If you want to switch back to original state using the plugin:refresh command.
+If you want to switch back to original state use the command
 
 ```bash 
 php artisan plugin:refresh Fytinnovations.Careers
