@@ -26,7 +26,7 @@ php artisan plugin:install fytinnovations.careers
 ```
 ### Seeding sample data
 
-After installation is complete, you may seed sample-data to test how the plugin works.
+After the installation is complete, you may want to seed sample data in order to test how the plugin works.
 
 ```bash 
 php artisan careers:seed-sample-data
