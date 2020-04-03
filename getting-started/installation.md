@@ -24,3 +24,21 @@ php artisan plugin:install rainlab.location
 php artisan plugin:install rainlab.translate
 php artisan plugin:install fytinnovations.careers
 ```
+### Seeding sample data
+
+After installation is complete, you may seed sample-data to test how the plugin works.
+
+```bash 
+php artisan careers:seed-sample-data
+```
+You can also use the --force (-f) option which will run the command forcefully without any questions.
+
+```bash 
+php artisan careers:seed-sample-data --force
+```
+
+If you want to switch back to original state using the plugin:refresh command.
+
+```bash 
+php artisan plugin:refresh Fytinnovations.Careers
+```
