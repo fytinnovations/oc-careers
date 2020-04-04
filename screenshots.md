@@ -22,7 +22,7 @@
 
 ![Job Post List](/assets/screenshots/careers_applyjob.png)
 
-## Job Applicantion List
+## Job Application List
 
 ![Job Post List](/assets/screenshots/careers_jobapplication.png)
 
