@@ -22,7 +22,8 @@ module.exports = {
               "/components/jobdetails",
           ]
         },
-        ['features', 'Upcoming Features !']
+        ['features', 'Upcoming Features !'],
+        ['screenshots', 'More Screenshots !']
       ],
       nav: [
         { text: "Guide", link: "/" },
