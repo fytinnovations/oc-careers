@@ -23,7 +23,7 @@ module.exports = {
           ]
         },
         ['features', 'Upcoming Features !'],
-        ['screenshots', 'More Screenshots !']
+        ['screenshots', 'Screenshots']
       ],
       nav: [
         { text: "Guide", link: "/" },
