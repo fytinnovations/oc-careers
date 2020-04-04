@@ -1,8 +1,8 @@
-# More Screenshots
+# Screenshots
 
 ::: tip Disclaimer
 
- Since octoberCMS' Marketplace only allows 5 screenshots to be uploaded with size restrictions. Here are some more insights of Careers Plugin.
+Here are some more insights of Careers Plugin.
 
 :::
 
