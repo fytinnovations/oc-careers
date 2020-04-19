@@ -6,7 +6,7 @@ sidebarDepth: 3
 
 ## Installation
 
-The `Fytinnovations.Careers` plugin depends on `RainLab.User`, `RainLab.Location`
+The `Fytinnovations.Careers` plugin depends on `RainLab.Location`
 and `RainLab.Translate`.
 
 ### Via Marketplace
@@ -19,7 +19,6 @@ can install it via the Projects feature of the Marketplace itself or via your in
 The easiest way to get you started is by using the command line:
 
 ```bash
-php artisan plugin:install rainlab.user
 php artisan plugin:install rainlab.location
 php artisan plugin:install rainlab.translate
 php artisan plugin:install fytinnovations.careers
