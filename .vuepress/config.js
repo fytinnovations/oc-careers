@@ -30,6 +30,10 @@ module.exports = {
         {
           text: "Marketplace",
           link: "https://octobercms.com/plugin/fytinnovations-careers"
+        },
+        {
+          text: "FYT innovations",
+          link: "https://www.fytinnovations.com/"
         }
       ],
       docsRepo: "fytinnovations/oc-careers",
