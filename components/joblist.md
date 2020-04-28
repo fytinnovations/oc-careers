@@ -11,7 +11,7 @@ This component displays list of published jobs along with filters by category, d
 | Value       | Description                                                                                                          | Default | Required |
 |-------------|----------------------------------------------------------------------------------------------------------------------|---------|----------|
 | detailsPage | Name of the job details page file for the full job display.  This property is used by the default component partial. | job     | No       |
-| jobsPerPage | Max number of job posts to display on on page. If it exceeds a pagination is generated                               | 5       | No       |
+| jobsPerPage | Max number of job posts to display on the page. If it exceeds a pagination is generated                               | 5       | No       |
 
 ## Sample Page
 
