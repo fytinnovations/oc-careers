@@ -20,6 +20,12 @@ footer: Copyright © 2018-present Fytinnovations
 
 :::
 
+## About
+
+Careers plugins helps you to easily post job vacancy on your website. With the help of careers plugin you can manage job applications based on departments, skills and categories (remote, full time, part time etc).
+
+Plugin comes with notification settings so that the person who is responsible for the recruitment never misses an applications.
+
 ## Requirements
 
 - PHP 7.3+
