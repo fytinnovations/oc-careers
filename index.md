@@ -16,7 +16,7 @@ footer: Copyright © 2018-present Fytinnovations
 
 ::: tip OFFER
 
- :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
+ :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `RELIEF` for Mega Discount until 30th May 2020. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
 
 :::
 
