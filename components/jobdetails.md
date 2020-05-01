@@ -32,3 +32,11 @@ applicationSuccessRedirectPage = "/careers"
 </div>
 
 ```
+
+When the application is successful the user will be redirected to the page specified in the [applicationSuccessRedirectPage] property. To display the message set in the [applicationSuccessMessage] property you can add the following twig flash markup to the intended page.
+
+```ini
+    {% flash success %}
+        <div class="alert alert-success">{{ message }}</div>
+    {% endflash %}
+```
