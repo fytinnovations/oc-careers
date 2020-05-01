@@ -8,9 +8,10 @@ This component displays information about a single job along with a form to appl
 
 ## Properties
 
-| Value                     | Description                                          | Default                           | Required |
-|---------------------------|------------------------------------------------------|-----------------------------------|----------|
-| applicationSuccessMessage | Message to display when the user applies for the job | Thankyou for applying for the job | No       |
+| Value                          | Description                                          | Default                           | Required |
+|--------------------------------|------------------------------------------------------|-----------------------------------|----------|
+| applicationSuccessMessage      | Message to display when the user applies for the job | Thankyou for applying for the job | No       |
+| applicationSuccessRedirectPage | Page to redirect when the application is succesfull  | /careers                          | No       |
 
 ## Sample Page
 
@@ -24,6 +25,7 @@ is_hidden = 0
 
 [jobDetails]
 applicationSuccessMessage = "Thankyou for applying for the job. We will get back to you shortly"
+applicationSuccessRedirectPage = "/careers"
 ==
 <div class="container m-t-lg">
     {% component 'jobDetails' %}
