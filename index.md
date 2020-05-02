@@ -8,9 +8,9 @@ features:
 - title: Easy Setup with no overhead configurations
   details: If you want to build your own careers page in no time you are the right place.One click setup of your own careers page.
 - title: Add Dynamics to your Job post
-  details: Easily add skills required, Department, No of positions open  and job description to a job post.Create categories such as full time, part time, remote etc for your job post.
+  details: Easily add skills required, Department, No of positions open and job description to a job post.Create categories such as full time, part time, remote etc for your job post.
 - title: Total Control with Handy Notifications
-  details: It  provides the admin with an Application dashboard to sort and view all the applications.It also allows you to turn on email notifcations for an application recieved, for as many email addresses you wish.
+  details: It provides the admin with an Application dashboard to sort and view all the applications.It also allows you to turn on email notifcations for an application recieved, for as many email addresses you wish.
 footer: Copyright © 2018-present Fytinnovations
 ---
 
@@ -22,9 +22,10 @@ footer: Copyright © 2018-present Fytinnovations
 
 ## About
 
-Careers plugins helps you to easily post job vacancy on your website. With the help of careers plugin you can manage job applications based on departments, skills and categories (remote, full time, part time etc).
+Careers plugin helps you to easily post job vacancies on your website. With the help of careers plugin you can manage job applications based on departments, skills, and categories (remote, full-time, part-time etc).
 
-Plugin comes with notification settings so that the person who is responsible for the recruitment never misses an applications.
+Plugin comes with notification settings so that the person who is responsible for the recruitment never miss an application.
+
 
 ## Requirements
 
