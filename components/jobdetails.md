@@ -25,7 +25,16 @@ is_hidden = 0
 
 [jobDetails]
 applicationSuccessMessage = "Thankyou for applying for the job. We will get back to you shortly"
-applicationSuccessRedirectPage = "/careers"
+applicationSuccessRedirectPage = "/jobs"
+==
+<?php
+function onEnd()
+{
+    // Optional - set the page title to the job title
+    if ($this->jobDetails->job)
+        $this->page->title = $this->jobDetails->job->title;
+}
+?>
 ==
 <div class="container m-t-lg">
     {% component 'jobDetails' %}
