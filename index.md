@@ -14,12 +14,6 @@ features:
 footer: Copyright © 2018-present Fytinnovations
 ---
 
-::: tip OFFER
-
- :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `RELIEF` for Mega Discount until 30th May 2020. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
-
-:::
-
 ## About
 
 Careers plugin helps you to easily post job vacancies on your website. With the help of careers plugin you can manage job applications based on departments, skills, and categories (remote, full-time, part-time etc).
