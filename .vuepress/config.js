@@ -33,7 +33,7 @@ module.exports = {
         },
         {
           text: "FYT innovations",
-          link: "https://octobercms.com/author/Fytinnovations"
+          link: "https://www.fytinnovations.com"
         }
       ],
       docsRepo: "fytinnovations/oc-careers",
