@@ -2,18 +2,18 @@
 sidebarDepth: 3
 ---
 
-# JobList
+## JobList
 
 This component displays a list of published jobs along with filters by category, department and pagination for those long lists.
 
-## Properties
+### Properties
 
 | Value       | Description                                                                                                          | Default | Required |
 |-------------|----------------------------------------------------------------------------------------------------------------------|---------|----------|
 | detailsPage | Name of the job details page file for the full job display.  This property is used by the default component partial. | job/details     | Yes       |
 | jobsPerPage | Max number of job posts to display on the page. If it exceeds pagination is generated                               | 5       | Yes       |
 
-## Sample Page
+#### Sample Page
 
 ```
 title = "Jobs"
